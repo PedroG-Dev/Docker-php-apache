@@ -11,7 +11,7 @@ Proyecto para la construcción de un contenedor de Docker con APACHE, PHP y SSL 
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/usuario/nombre-del-repositorio.git
 cd nombre-del-repositorio
 ```
 
