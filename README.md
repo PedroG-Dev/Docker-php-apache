@@ -13,7 +13,7 @@ Antes de nada dentro de la carpeta web1 habrá que crear la carpeta tls y dentro
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/nombre-del-repositorio.git
+git clone https://github.com/PedroG-Dev/Docker-php-apache.git
 cd nombre-del-repositorio
 ```
 
