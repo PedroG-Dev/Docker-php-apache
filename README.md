@@ -8,6 +8,8 @@ Proyecto para la construcción de un contenedor de Docker con APACHE, PHP y SSL 
 
 ## 🚀 Instalación y uso
 
+Antes de nada dentro de la carpeta web1 habrá que crear la carpeta tls y dentro de esta las carpetas certs y private donde irán los certificados y las claves
+
 ### 1️⃣ Clonar el repositorio
 
 ```bash
