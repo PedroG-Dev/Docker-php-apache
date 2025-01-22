@@ -1,0 +1,4 @@
+# Ignorar certificados y claves
+
+/web1/tls/certs/*
+/web1/tls/private/*
